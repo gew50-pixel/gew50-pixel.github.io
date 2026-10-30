@@ -1,0 +1,32 @@
+---
+title: "Grace Wilding"
+about:
+  template: trestles
+  id: about-block
+  image: "img/headshot.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/gew50-pixel 
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/grace-wilding 
+    - icon: envelope
+      text: Email
+      href: "mailto:gew50@case.edu"  
+---
+
+
+# Welcome to my website!
+
+My name is Grace Wilding. I am a first-year master's student in Biostatistics and a third-year undergraduate student in Applied Mathematics and Statistics. I plan to pursue a Biostatistics PhD and will apply next fall. I am proficient in R, SAS, Python and Java.
+
+Outside of academics, I am the Executive Assistant of the Eta Pi chapter of Kappa Alpha Theta. I also serve as the Vice President of Administration and Outreach of the National Residence Hall Honorary and I am the Biostatistics MS student representative in the PQHS CWRU department.
+
+This past summer, I participated in a NIH-funded biostatistics research program called Pathways into Quantitative Aging Research at the New York University School of Global Public Health. In this program I completed coursework in biostatistics, epidemiology, and statistical computing. I also completed a research project where I created a Future Elderly Model to predict health outcomes using the Health and Retirement Study dataset.
+
+Currently, I have been working for the University of Florida on a couple of publications in review. I have used multi-state Markov models to predict transition rates of older adults to different stages of Alzheimer's Disease (AD) to determine which background characteristics appear most relevant (race, economic background, health history, etc.) The second project I have been working one is using model selection to determine more useful ways of modeling AD progression in clinical trials.
+
+Please feel free to [contact me](mailto:gew50@case.edu) if you have any questions or would like to discuss potential projects.
+
+

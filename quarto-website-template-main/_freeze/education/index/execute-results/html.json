@@ -1,0 +1,12 @@
+{
+  "hash": "4b4ed59d8df82e5a6bcf4db8a64fb6bb",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: \"Education\"\n---\n\n```{css}\n#| echo: false\n.edu-entry {\n  display: flex;\n  align-items: center;\n  gap: 1.25rem;\n  margin-bottom: 1.5rem;\n}\n.edu-logo {\n  flex: 0 0 80px;\n  width: 80px;\n  height: 80px;\n  object-fit: contain;\n}\n.edu-text h2 {\n  margin-top: 0;\n  margin-bottom: 0.25rem;\n  border-bottom: none;\n}\n.edu-text p {\n  margin-bottom: 0;\n}\n```\n\n::: {.edu-entry}\n<img src=\"logo.jpg\" class=\"edu-logo\">\n\n::: {.edu-text}\n## M.S. in Biostatistics\n**Case Western Reserve University** · Cleveland, Ohio  \n*Aug 2026 – Present*\n\n- Relevant coursework: [Course 1], [Course 2], [Course 3]\n:::\n:::\n\n---\n\n## B.S. in Applied Mathematics, Second Major in Statistics\n**Case Western Reserve University** · Cleveland, Ohio \n*Aug 2024 – Present*\n\n- Minor: Economics\n- GPA: 4.00 / 4.00\n- Honors: [e.g., Dean's List, scholarships]\n- Activities: [e.g., clubs, organizations, leadership roles]\n- Relevant coursework: [Course 1], [Course 2], [Course 3]\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

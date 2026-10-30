@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "I am studying concentration of measure and its application to convex geometry, including asymptotic behavior in lp and Lorentz spaces; presenting to the CWRU Mathematics Department in December 2026"
+  },
+  {
+    "objectID": "projects/index.html#high-dimensional-probability-asymptotic-geometry-of-sequence-spaces",
+    "href": "projects/index.html#high-dimensional-probability-asymptotic-geometry-of-sequence-spaces",
+    "title": "Projects",
+    "section": "",
+    "text": "I am studying concentration of measure and its application to convex geometry, including asymptotic behavior in lp and Lorentz spaces; presenting to the CWRU Mathematics Department in December 2026"
+  },
+  {
+    "objectID": "projects/index.html#smoking-life-expectancy-and-chronic-disease-in-the-united-states",
+    "href": "projects/index.html#smoking-life-expectancy-and-chronic-disease-in-the-united-states",
+    "title": "Projects",
+    "section": "Smoking, Life Expectancy and Chronic Disease in the United States",
+    "text": "Smoking, Life Expectancy and Chronic Disease in the United States\n\n\nAs part of my research group I utiltized the Health and Retirement Student to create a logistic model. I then used this model to create a counterfactual simulation to predict subjects’ cumulative smoking to study how health outcomes change with smoking habit changes."
+  },
+  {
+    "objectID": "education/index.html",
+    "href": "education/index.html",
+    "title": "Education",
+    "section": "",
+    "text": "Case Western Reserve University · Cleveland, Ohio\nAug 2026 – Present\n\nRelevant coursework: Statistical Methods 1 and Data Management & Statistical Programming (SAS)"
+  },
+  {
+    "objectID": "education/index.html#m.s.-in-biostatistics",
+    "href": "education/index.html#m.s.-in-biostatistics",
+    "title": "Education",
+    "section": "",
+    "text": "Case Western Reserve University · Cleveland, Ohio\nAug 2026 – Present\n\nRelevant coursework: Statistical Methods 1 and Data Management & Statistical Programming (SAS)"
+  },
+  {
+    "objectID": "education/index.html#b.s.-in-applied-mathematics-second-major-in-statistics",
+    "href": "education/index.html#b.s.-in-applied-mathematics-second-major-in-statistics",
+    "title": "Education",
+    "section": "B.S. in Applied Mathematics, Second Major in Statistics",
+    "text": "B.S. in Applied Mathematics, Second Major in Statistics\nCase Western Reserve University · Cleveland, Ohio Aug 2024 – Present\n\nMinor: Economics\nGPA: 4.00 / 4.00\nHonors: Dean’s High Honor List and Case Alumni Association Jenior Senior Scholarship\nActivities: NRHH, Kappa Alpha Theta, CCEL Scholar\nRelevant coursework: Probability, Statistical Inference, Data Analysis & Linear Models, Math in Machine Learning, Real Analysis I, Scientific Computing, Linear Algebra, Differential Equations, Calculus I - III, Mathematical Modeling, Data Structures"
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV\n  \n\n\n  \n\n\nView the tutorial for this template (+ download link)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Grace Wilding",
+    "section": "",
+    "text": "Welcome to my website!\nMy name is Grace Wilding. I am a first-year master’s student in Biostatistics and a third-year undergraduate student in Applied Mathematics and Statistics. I plan to pursue a Biostatistics PhD and will apply next fall. I am proficient in R, SAS, Python and Java.\nOutside of academics, I am the Executive Assistant of the Eta Pi chapter of Kappa Alpha Theta. I also serve as the Vice President of Administration and Outreach of the National Residence Hall Honorary and I am the Biostatistics MS student representative in the PQHS CWRU department.\nThis past summer, I participated in a NIH-funded biostatistics research program called Pathways into Quantitative Aging Research at the New York University School of Global Public Health. In this program I completed coursework in biostatistics, epidemiology, and statistical computing. I also completed a research project where I created a Future Elderly Model to predict health outcomes using the Health and Retirement Study dataset.\nCurrently, I have been working for the University of Florida on a couple of publications in review. I have used multi-state Markov models to predict transition rates of older adults to different stages of Alzheimer’s Disease (AD) to determine which background characteristics appear most relevant (race, economic background, health history, etc.) The second project I have been working one is using model selection to determine more useful ways of modeling AD progression in clinical trials.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects."
+  }
+]

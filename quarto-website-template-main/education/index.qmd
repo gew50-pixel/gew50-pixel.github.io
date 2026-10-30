@@ -1,0 +1,25 @@
+---
+title: "Education"
+---
+
+
+## M.S. in Biostatistics
+**Case Western Reserve University** · Cleveland, Ohio  
+*Aug 2026 – Present*
+
+- Relevant coursework: Statistical Methods 1 and Data Management & Statistical Programming (SAS)
+
+
+---
+
+## B.S. in Applied Mathematics, Second Major in Statistics
+**Case Western Reserve University** · Cleveland, Ohio 
+*Aug 2024 – Present*
+
+- Minor: Economics
+- GPA: 4.00 / 4.00
+- Honors: Dean's High Honor List and Case Alumni Association Jenior Senior Scholarship
+- Activities: NRHH, Kappa Alpha Theta, CCEL Scholar
+- Relevant coursework: Probability, Statistical Inference, Data Analysis & Linear Models, Math in Machine Learning, Real
+Analysis I, Scientific Computing, Linear Algebra, Differential Equations, Calculus I - III, Mathematical Modeling,
+Data Structures

@@ -1,0 +1,24 @@
+---
+title: Projects
+resources:
+  - "fem.pdf"
+  - "graph.pdf"
+  - "sir.pdf"
+---
+
+## High Dimensional Probability & Asymptotic Geometry of Sequence Spaces
+
+
+
+I am studying concentration of measure and its application to convex geometry, including asymptotic behavior in lp and
+Lorentz spaces; presenting to the CWRU Mathematics Department in December 2026
+
+----
+
+## Smoking, Life Expectancy and Chronic Disease in the United States
+
+<iframe src="fem.pdf" style="width: 100%; height: 600px; border: none;"></iframe>
+
+As part of my research group I utiltized the Health and Retirement Student to create a logistic model. I then used this model to create a counterfactual simulation to predict subjects' cumulative smoking to study how health outcomes change with smoking habit changes. 
+
+
