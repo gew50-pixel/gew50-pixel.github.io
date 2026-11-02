@@ -5,7 +5,7 @@ website:
   title: "Grace Wilding"                                # Your name
   image: img/headshot.jpg
   
-  favicon: img/logo.svg
+  favicon: /img/logo.svg
   
   # start of the navigation bar at the top of the website
   navbar:
